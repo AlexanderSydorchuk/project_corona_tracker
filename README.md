@@ -18,3 +18,5 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ```npm i && npm start```
+
+License: https://github.com/AlexanderSydorchuk/project_corona_tracker/blob/master/LICENSE
